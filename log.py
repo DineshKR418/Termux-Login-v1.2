@@ -10,9 +10,8 @@ def menu():
            print('')
            os.system('date | lolcat')
            print("\033[1;93m")
-           print(" \033[1;92m  786 => bismi-llāhir-raḥmānir-raḥīm')")
+           print(" \033[10;92m DINESH HEMBROM')")
            print("\033[1;93m")
-           print("  <───────[ Assalamu-Alaikum ]───────>")
            print("")
            try:
                 x = str(input('\033[1;92mUsername \033[1;93m: '))
